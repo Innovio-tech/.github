@@ -1,0 +1,10 @@
+# Organisation default: work is tracked in each product's tracker or roadmap, not in GitHub Issues.
+# A product with its own tracker link keeps its own .github/ISSUE_TEMPLATE/config.yml.
+blank_issues_enabled: false
+contact_links:
+  - name: Report a security vulnerability
+    url: https://github.com/Innovio-tech/.github/blob/main/SECURITY.md
+    about: Never open a public issue for a security problem. Follow SECURITY.md.
+  - name: Engineering standards
+    url: https://github.com/Innovio-tech/engineering-standards
+    about: How Innovio products are built, tested and shipped.
