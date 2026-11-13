@@ -9,7 +9,7 @@ its own `SECURITY.md`.
 
 Report it privately to the Innovio engineering team through GitHub's private vulnerability
 reporting (the repository's **Security** tab → **Report a vulnerability**) where it is enabled,
-or through the company's approved private channel. Include, where you can:
+or through email to [security@innovio.md](mailto:security@innovio.md). Include, where you can:
 
 - the product and component, version, commit or image tag, and environment;
 - a description, steps to reproduce, and the impact you expect;
