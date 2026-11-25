@@ -1,0 +1,16 @@
+# Code owners: GitHub requests a review from these owners automatically. Later lines win for the same path. A team named
+# here needs Write access (engineering-standards standards/git-workflow.md §6, Teams). On GitHub Free nothing makes
+# their approval required (PD-08): review stays a discipline.
+
+*                          @mickey02s
+
+# Locked decisions
+/CLAUDE.md                 @mickey02s
+/.claude/                  @mickey02s
+
+# Repository and GitHub configuration, Docker, deploy
+/.github/                  @Innovio-tech/devops @mickey02s
+/.githooks/                @Innovio-tech/devops @mickey02s
+/Dockerfile                @Innovio-tech/devops @mickey02s
+/docker-compose*.yml       @Innovio-tech/devops @mickey02s
+/deploy/                   @Innovio-tech/devops @mickey02s
